@@ -1,9 +1,8 @@
-{ ''[Dsurname':''[DChudinovskikh',
-'name':'Anton'
-patronymic[D[D[D[D[D[D[D[D[D[D'patronymic':'Yurevich'
-'age':33
-'pets':null[D[D[D[C[ 'null'
-[D[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[D[D[D[[C[C[C[C null[D[C
-'salry': 1 million $[D[D[D[D[D[D[D[D[D[D[D[D[C'[C1[C[D million $'[D[D[D[D[D[D[D[D[D[D[D[[C[C[C[C[C[C[C[C[C[C[C[C[C
-[A[A[C[C[B[C[Cary': '[C[C[C[C[C[C[C[C[C[C[C[C
+{ 
+"surname":"Chudinovskikh",
+"name":"Anton",
+"patronymic":"Yurevich",
+"age":33,
+"pets":null,
+"salry": "1 million" 
 }
